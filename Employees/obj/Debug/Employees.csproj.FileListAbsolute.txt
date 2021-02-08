@@ -1,0 +1,12 @@
+E:\XAMARIN\2021\CURD_webapi\Employees\bin\Debug\Employees.dll.config
+E:\XAMARIN\2021\CURD_webapi\Employees\bin\Debug\Employees.dll
+E:\XAMARIN\2021\CURD_webapi\Employees\bin\Debug\Employees.pdb
+E:\XAMARIN\2021\CURD_webapi\Employees\bin\Debug\EntityFramework.dll
+E:\XAMARIN\2021\CURD_webapi\Employees\bin\Debug\EntityFramework.SqlServer.dll
+E:\XAMARIN\2021\CURD_webapi\Employees\bin\Debug\EntityFramework.xml
+E:\XAMARIN\2021\CURD_webapi\Employees\bin\Debug\EntityFramework.SqlServer.xml
+E:\XAMARIN\2021\CURD_webapi\Employees\obj\Debug\Employees.dll
+E:\XAMARIN\2021\CURD_webapi\Employees\obj\Debug\Employees.pdb
+E:\XAMARIN\2021\CURD_webapi\Employees\obj\Debug\Employees.Migrations.InitialMigration.resources
+E:\XAMARIN\2021\CURD_webapi\Employees\obj\Debug\Employees.csproj.GenerateResource.Cache
+E:\XAMARIN\2021\CURD_webapi\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
